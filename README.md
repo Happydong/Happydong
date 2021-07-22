@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I’m [Happydong](https://happydong.github.io/) 👋
 
 - 🔭 I’m currently working as a PHP developer.
