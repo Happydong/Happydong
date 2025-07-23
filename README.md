@@ -2,31 +2,32 @@
 
 - 👯 I’m currently working as a senior softeware developer.
 - 🔭 Current Focus: 
-  - Microservices Architecture (Spring Cloud/Dubbo) 
+  - **Languages**: Java(Spring)/Golang/PHP 协同开发
+  - Microservices Architecture (Spring Cloud) 
   - High-performance Data Processing (50W+ daily contracts)
   - Distributed Systems (Kafka/RocketMQ integration)
-  - Cloud-Native Solutions (K8s & Service Mesh)
 
 - 🛠 Core Engineering:
   - Smart Coal DataHub Platform
     - Real-time dispatch processing (Flink-based)
-    - Contract lifecycle management systems
-    - Multi-tenant data isolation strategies
+    - Contract lifecycle management systems (Java/PHP hybrid architecture)
+    - Multi-tenant data isolation strategies (Go-based middleware)
   
+- 🔧 DevOps & Ops:
+  - Linux system administration (CentOS/Ubuntu)
+  - CI/CD pipeline optimization (Shell/Python scripting)
+  - Container orchestration troubleshooting
+  - Performance monitoring (Prometheus/Grafana stack)
+
 - 🌱 Learning Goals:
   - Optimizing JVM performance for high-throughput systems
   - Distributed transaction patterns (Saga/Seata)
   - Garbage Collection tuning in big data scenarios
 
 - 💡 Recent Achievements:
-  - Reduced GC pauses by 40% in data pipeline
-  - Implemented batch processing optimization in contract workflows
-  - Developed config-driven data mapping framework
-    
-- 📫 Collaboration:
-  - Looking to partner on cloud-native data solutions
-  - Interested in performance optimization challenges
-  - Available for architecture consulting engagements
+  - Reduced GC pauses by 40% in Java data pipeline
+  - Migrated legacy PHP system to Go microservices
+  - Developed automated deployment system using Ansible
     
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: linuxof@gamil.com
