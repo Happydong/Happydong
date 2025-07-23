@@ -22,10 +22,7 @@
   - Reduced GC pauses by 40% in data pipeline
   - Implemented batch processing optimization in contract workflows
   - Developed config-driven data mapping framework
-
-- 📚 Knowledge Sharing:
-  - Technical blog: [CSDN](https://blog.csdn.net/zlfwhz)
-
+    
 - 📫 Collaboration:
   - Looking to partner on cloud-native data solutions
   - Interested in performance optimization challenges
