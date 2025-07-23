@@ -1,9 +1,38 @@
 ### Hi there, I’m [Happydong](https://happydong.github.io/) 👋
 
-- 🔭 I’m currently working as a PHP developer.
-- 👯 I’m looking to collaborate on Micro-service, Go and so on…
+- 👯 I’m currently working as a senior softeware developer.
+- 🔭 Current Focus: 
+  - Microservices Architecture (Spring Cloud/Dubbo) 
+  - High-performance Data Processing (50W+ daily contracts)
+  - Distributed Systems (Kafka/RocketMQ integration)
+  - Cloud-Native Solutions (K8s & Service Mesh)
+
+- 🛠 Core Engineering:
+  - Smart Coal DataHub Platform
+    - Real-time dispatch processing (Flink-based)
+    - Contract lifecycle management systems
+    - Multi-tenant data isolation strategies
+  
+- 🌱 Learning Goals:
+  - Optimizing JVM performance for high-throughput systems
+  - Distributed transaction patterns (Saga/Seata)
+  - Garbage Collection tuning in big data scenarios
+
+- 💡 Recent Achievements:
+  - Reduced GC pauses by 40% in data pipeline
+  - Implemented batch processing optimization in contract workflows
+  - Developed config-driven data mapping framework
+
+- 📚 Knowledge Sharing:
+  - Technical blog: [CSDN](https://blog.csdn.net/zlfwhz)
+
+- 📫 Collaboration:
+  - Looking to partner on cloud-native data solutions
+  - Interested in performance optimization challenges
+  - Available for architecture consulting engagements
+    
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: 1732594900@qq.com
+- 📫 Reach me: linuxof@gamil.com
 - 😄 Pronouns: Happdong
 - ⚡ Fun fact: Reading book and Hikng.
 - 🌐 I write some articles on [CSDN](https://blog.csdn.net/zlfwhz)
