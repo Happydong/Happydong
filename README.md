@@ -2,7 +2,7 @@
 
 - 👯 I’m currently working as a senior softeware developer.
 - 🔭 Current Focus: 
-  - **Languages**: Java(Spring)/Golang/PHP 协同开发
+  - **Languages**: Java(Spring)/Golang/PHP
   - Microservices Architecture (Spring Cloud) 
   - High-performance Data Processing (50W+ daily contracts)
   - Distributed Systems (Kafka/RocketMQ integration)
